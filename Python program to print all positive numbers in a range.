@@ -1,3 +1,4 @@
+1)
 list1=[12,-7,5,64,-14]
 for num in list1:
     if num>=0:
@@ -5,3 +6,11 @@ for num in list1:
  
 Output:
    12,5,64
+
+2)
+list2=[12,14,-95,3]
+list3=[i for i in list2 if i>=0]
+print(list3)
+
+Output:
+   [12,14,3]
