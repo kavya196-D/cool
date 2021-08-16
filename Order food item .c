@@ -16,7 +16,8 @@ main()
                    printf("Price:180"); 
                    break;
              case 3:
-                   printf("fooditem:pasta");                printf("\nPrice:179");
+                   printf("fooditem:pasta");
+                   printf("\nPrice:179");
                    break;
              case 4:
                    printf("food item:french ")    
