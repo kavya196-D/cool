@@ -9,11 +9,11 @@ main()
         {
              case 1:
                    printf("food item:pizza");
-                   printf("Price:210"); 
+                   printf("\nPrice:210"); 
                    break;                         
              case 2:
                    printf("food item:burger");
-                   printf("Price:180"); 
+                   printf("\nPrice:180"); 
                    break;
              case 3:
                    printf("fooditem:pasta");
@@ -27,7 +27,7 @@ main()
                    printf("food item:sandwich");
                    printf("\nPrice:100");
                    break;
-             default:printf("Invalid syntex");
+             default:printf("\nInvalid syntex");
               }
 }
 OUTPUT:
