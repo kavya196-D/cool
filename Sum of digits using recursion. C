@@ -9,7 +9,7 @@ int main()  
       printf("Sum of digits in %d is %d\n", num, result);                                                      
       return 0;
 }        
-int sum (int num)
+int sum (int num);
 {                                                                                  
       if (num != 0) 
       {
